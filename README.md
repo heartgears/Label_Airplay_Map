@@ -1,7 +1,7 @@
 # Label_Airplay_Map
 
 ## Background
-Mascot Label Group is an independent Dutch record label, specializing in guitarists and associated genres (rock, metal, blues, etc). Since 2014, the label's North American office has pushed over 20 singles to rock radio from several artists including P.O.D., Black Stone Cherry, Crobot, and 10 Years. The purpose of this project is to identify trends in radio support for singles, artists, and the label overall based on data individual radio stations.
+Mascot Label Group is an independent Dutch record label, specializing in guitarists and associated genres (rock, metal, blues, etc). Since 2014, the label's North American office has pushed over 20 singles to rock radio from several artists including P.O.D., Black Stone Cherry, Crobot, and 10 Years. The purpose of this project is to identify trends in radio support for singles, artists, and the label overall based on data from individual radio stations.
 
 ## Overview
 Song reports for every Mascot Records Active Rock radio single were downloaded as xlsx files from Mediabase. Some songs had two files, one for every year of its chart run, and looked like the following:
