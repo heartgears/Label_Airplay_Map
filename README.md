@@ -6,7 +6,13 @@ Mascot Label Group is an independent Dutch record label, specializing in guitari
 ## Overview
 Song reports for every Mascot Records Active Rock radio single were downloaded as xlsx files from Mediabase. Some songs had two files, one for every year of its chart run, and looked like the following:
 
-These song files were cleaned (month plays were deleted leaving only year totals, and each row was given a song, artist, and a year column) and concatenated into one csv file for Tableau to read and visualize. The final step before visualizing was adding zip codes to every radio station for Tableau to be able to map each station appropriately using a VLOOKUP.
+![Original_Mediabase_Report](https://github.com/heartgears/Label_Airplay_Map/blob/main/Mediabase_Report.png)
+
+These song files were converted to CSV files and cleaned (month plays were deleted leaving only year totals, and each row was given a song, artist, and a year column) and concatenated into one csv file for Tableau to read and visualize. 
+
+![Cleaned_Mediabase_Report](https://github.com/heartgears/Label_Airplay_Map/blob/main/Cleaned_Mediabase_Report.png)
+
+The final step before visualizing was adding zip codes to every radio station for Tableau to be able to map each station appropriately using a VLOOKUP.
 
 ## Results
 The final airplay dashboard appeared as follows:
