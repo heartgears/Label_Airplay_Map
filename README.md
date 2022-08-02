@@ -28,10 +28,13 @@ The final airplay dashboard appeared as follows:
 
 The tooltip over the radio map includes format of the radio station, its market rank, location, callcode, and its total spins (filtered by the selections on the right). The dashboard is responsive and can filter data based on date range, artist, song, and station, allowing an in depth analysis of stations, artists and songs.
 
+### Song Analysis
 ![Song_Demo](https://github.com/heartgears/Label_Airplay_Map/blob/main/Novacaine.png)
 
+### Artist Analysis
 ![Artist_Demo](https://github.com/heartgears/Label_Airplay_Map/blob/main/10_Years.png)
 
+### Station Analysis
 ![Station_Demo](https://github.com/heartgears/Label_Airplay_Map/blob/main/Station_Demo.png)
 
 ## Limitations and Improvements
