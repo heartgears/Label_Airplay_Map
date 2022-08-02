@@ -11,4 +11,6 @@ These song files were cleaned (month plays were deleted leaving only year totals
 ## Results
 The final airplay dashboard appeared as follows:
 
+![Mascot_Radio_Dashboard](https://github.com/heartgears/Label_Airplay_Map/blob/main/Dashboard_Screenshot_1.png)
+
 The tooltip over the radio map includes format of the radio station, its market rank, location, callcode, and its total spins (filtered by the selections on the right). The dashboard is responsive and can filter data based on date range, artist, song, and station, allowing an in depth analysis of stations and artists and songs.
